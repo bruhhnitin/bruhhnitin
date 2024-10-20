@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a high school senior looking to to graduate as a Bachelor's in Computer Science<br><br>🐍 Learning Advanced Python and HTML5/CSS<br><br>📈 Aspiring to become a software engineer in the MAANG group
+🎓 I am a high school senior aspiring to pursue a Bachelor's degree in Computer Science.<br><br>🐍 Learning Advanced Python and HTML5/CSS.<br><br>📈 I hope to learn more about emerging technologies like AI/ML and Data Science.
 
 
 ## 🌐 Socials:
